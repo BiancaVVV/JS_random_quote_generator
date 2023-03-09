@@ -1,1 +1,1 @@
-# random_quote_generator using API to get random quotes :)
+# JAVASCRIPT quote_generator using API to get random quotes :)
